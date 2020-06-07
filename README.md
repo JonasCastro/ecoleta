@@ -6,13 +6,9 @@
 	 Next Level Week 1.0
 </h4>
 <p align="center"> 
-	 Your waste collection market.
+	 Your waste collection market
 </p>
 
-## Demo
-
-
-![Ecoleta - Animated gif demo](demo/demo.gif)
 
 ## :robot: Technologies Used
 * [TypeScript](https://www.typescriptlang.org/)
@@ -20,6 +16,18 @@
 * [React](https://reactjs.org)
 * [React Native](https://reactnative.dev/)
 * [SQLite](https://www.sqlite.org/index.html)
+* [KnexJs](http://knexjs.org/)
+* [Express](https://expressjs.com/)
+* [Axios](https://github.com/axios/axios)
+* [Expo](https://expo.io/)
+
+### Utils
+
+
+- [IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1) :arrow_right:  <kbd>[API of UFs](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)</kbd>, <kbd>[API of municipalities](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)</kbd> 
+- Maps: [Leaflet](https://react-leaflet.js.org/en/)
+- Fonts: [Ubuntu](https://fonts.google.com/specimen/Ubuntu), [Roboto](https://fonts.google.com/specimen/Roboto)
+
 
 
 ## :checkered_flag: Run Project Locally:
